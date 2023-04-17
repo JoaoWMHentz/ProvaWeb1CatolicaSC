@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 100vmax;
+    height: 100vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.item {
+   font-size: xx-large; 
+   font-weight: 500;
+}
